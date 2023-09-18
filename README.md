@@ -1,2 +1,3 @@
 # BH_coding_club
-For Brook Hill students only
+
+This is a space individuals can read the rules or project goals
